@@ -1,0 +1,7 @@
+[X] no secrets for unauthenticated userStrategy
+    [X] unauthenticated receives 403
+    [X] authenticated receives secrets
+[ ] no secrets above clearance level
+    [ ] level 1: <10
+    [ ] level 2: <13
+    [ ] level 3: >=13
